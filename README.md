@@ -40,3 +40,9 @@ Wenn sich der Fenster Fokus verändert wird der akteulle Timestem und datum noti
 Prüfe ob die app die verwendet wird registriert ist wenn nein, lege sie an
 bei chrome oder anderen browsern soll nciht nur dastehen chrome sondern welchen tab man offen hatte, also youtbe, google gemini ...
 bei vs code oder anderen editoren soll nciht nur vs code stehen sondern auch das aktuelle Projekt
+### Phase 2
+Erstelle Tests um die verschiedenen Funktionen zu Testen
+#### Phase 2.1 Unit Tests
+Erstelle Grundlegegende Tests für die Geschäfstlogik die überprüfen ob diese so funktioniert wie indentdendet
+#### Phase 2.2 Integrationstests
+Erstelle Tests die mit einer test datenbank die Adapter Logik testen. fokusiere dich dabei auf Logik tests die überprüfen ob die datenbank schriebgänge richtig funktionieren 
